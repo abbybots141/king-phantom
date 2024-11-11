@@ -60,7 +60,7 @@ router.get('/', async (req, res) => {
 ______________________________________
 *_Pair Code Successful Connected 🐦‍🔥_*
 
-* _Above is your SESSION_ID🙄🥱 use it to deploy all of Phantom's bots_
+* _Above is your SESSION_ID🙄🥱 use it to deploy all of Abby Tech bots_
 
 *NB:* _*DO NOT SHARE YOUR SESSION_ID WITH ANYONE... SHARE AT YOUR OWN RISK💀*_
 _____________________________________
